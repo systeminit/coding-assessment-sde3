@@ -1,7 +1,6 @@
 # Software Engineer III Take Home Assessment 
 
-This is the repository for the System Initiatives Software Engineer III take home assessment. It is designed to check for
-a couple of things:
+This is the repository for the System Initiatives Software Engineer III take-home assessment. It is designed to verify:
 
 * That you have a proficiency with Rust
 * That you have a familiarity with Typescript
