@@ -1,16 +1,16 @@
-# Software Engineer III Take Home Test 
+# Software Engineer III Take Home Assessment 
 
-This is the repository for the System Initiatives Software Engineer III take home test. It is designed to check for
+This is the repository for the System Initiatives Software Engineer III take home assessment. It is designed to check for
 a couple of things:
 
 * That you have a proficiency with Rust
 * That you have a familiarity with Typescript
 * That you can architect a working system from a small design brief
 
-We use a take-home test so that you can have your most productive environment at hand. Use whatever editor, operating
+We use a take-home assessment so that you can have your most productive environment at hand. Use whatever editor, operating
 system, etc. you like. Google to your hearts content.
 
-We expect this test to take no more than 4 hours to do.
+We expect this assessment to take no more than 4 hours to do.
 
 ## What you'll be building
 
