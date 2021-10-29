@@ -26,7 +26,7 @@ no problem. Regardless of the framework you choose, we would like your code to u
 
 We use [Tailwind](http://tailwindcss.com) for CSS - but again, feel free to use whatever you like.
 
-The backend should be written in Rust. We use [warp](https://github.com/seanmonstar/warp), but you can use any
+The backend should be written in Rust. We use [axum](https://github.com/tokio-rs/axum), but you can use any
 async web framework for Rust that you prefer. Store the list of messages in memory. Please add tests for each
 endpoint of your backend.
 
