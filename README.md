@@ -31,6 +31,7 @@ async web framework for Rust that you prefer. Store the list of messages in memo
 endpoint of your backend.
 
 We want you to also include a README, that tells us how to run your application, and how to run your tests.
+Time is always a constraint, so we would love to see any next steps or future issues to address.
 
 When you've finished, create a repository on Github and send us the link. If you prefer to keep it private,
 you can add `adamhjk`, `fnichol`, `alex-init`, and `mahirl` as collaborators. 
