@@ -33,4 +33,4 @@ endpoint of your backend.
 We want you to also include a README, that tells us how to run your application, and how to run your tests.
 
 When you've finished, create a repository on Github and send us the link. If you prefer to keep it private,
-you can add `adamhjk`, `fnichol`, and `mahirl` as collaborators. 
+you can add `adamhjk`, `britmyerss`, `fnichol`, and `mahirl` as collaborators. 
