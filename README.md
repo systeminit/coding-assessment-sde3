@@ -9,7 +9,7 @@ This is the repository for the System Initiatives Software Engineer III take-hom
 We use a take-home assessment so that you can have your most productive environment at hand. Use whatever editor, operating
 system, etc. you like. Google to your hearts content.
 
-We expect this assessment to take no more than 4 hours to do.
+Spend no more than 4 hours on this assessment.
 
 ## What you'll be building
 
@@ -30,7 +30,12 @@ The backend should be written in Rust. We use [axum](https://github.com/tokio-rs
 async web framework for Rust that you prefer. Store the list of messages in memory. Please add tests for each
 endpoint of your backend.
 
-We want you to also include a README, that tells us how to run your application, and how to run your tests.
+We want you to also include a README. In your README, include: 
+* How to run your application
+* How to run your tests
+* Overview of your approach
+* Brief(!) assessment of strengths and weaknesses
+* What you would do if you had more time
 
 When you've finished, create a repository on Github and send us the link. If you prefer to keep it private,
 you can add `adamhjk`, `britmyerss`, `fnichol`, and `mahirl` as collaborators. 
