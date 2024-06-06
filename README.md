@@ -33,9 +33,12 @@ endpoint of your backend.
 We want you to also include a README. In your README, include: 
 * How to run your application
 * How to run your tests
-* Overview of your approach
-* Brief(!) assessment of strengths and weaknesses
+* Overview of your approach, including:
+    * Insights into decisions you made
+    * Strengths and weaknesses of your assessment
+    * For ex: "I've never used axum before and am unsure if there is a better pattern to follow 
 * What you would do if you had more time
+* Any other helpful documentation you think would aid us in our review
 
 When you've finished, create a repository on Github and send us the link. If you prefer to keep it private,
 you can add `adamhjk`, `britmyerss`, `fnichol`, and `mahirl` as collaborators. 
