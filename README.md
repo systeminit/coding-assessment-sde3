@@ -41,4 +41,4 @@ We want you to also include a README. In your README, include:
 * Any other helpful documentation you think would aid us in our review
 
 When you've finished, create a repository on Github and send us the link. If you prefer to keep it private,
-you can add `adamhjk`, `britmyerss`, `fnichol`, and `mahirl` as collaborators. 
+you can add `adamhjk`, `britmyerss`, `fnichol`, `vbustamante`, `nickgerace`, and `mahirl` as collaborators. 
